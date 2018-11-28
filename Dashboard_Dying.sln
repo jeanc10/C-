@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dashboard_Dying", "Dashboard_Dying\Dashboard_Dying.csproj", "{A62F647D-F50E-40D1-B90D-F3D27CAAE60C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A62F647D-F50E-40D1-B90D-F3D27CAAE60C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A62F647D-F50E-40D1-B90D-F3D27CAAE60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A62F647D-F50E-40D1-B90D-F3D27CAAE60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A62F647D-F50E-40D1-B90D-F3D27CAAE60C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

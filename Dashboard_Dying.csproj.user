@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectView>ProjectFiles</ProjectView>
+    <PublishUrlHistory>\\RIO3LT086\DashboardFiles\publish\|C:\Users\jibenite\Documents\Demos\PRUEBAPUBLISH\DASHBOARD\PUBLISH\|C:\Users\jibenite\Documents\Demos\PRUEBAPUBLISH\|\\rio5spfs1\TRANSFER\Proyectos\Dashboard_Dying\|C:\Users\mzuniga\Desktop\JB\DASH\</PublishUrlHistory>
+    <InstallUrlHistory>\\RIO3LT086\DashboardFiles\publish\|\\rio5spfs1\TRANSFER\Proyectos\Dashboard_Dying\|\\rio5spfs1\TRANSFER\Proyectos\Dashboard\|\\rio5spfs1\TRANSFER\Proyectos\Recipe_Automation\</InstallUrlHistory>
+    <SupportUrlHistory />
+    <UpdateUrlHistory>\\rio5spfs1\TRANSFER\Proyectos\Dashboard_Dying\|\\rio5spfs1\TRANSFER\Proyectos\Recipe_Automation\</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>en-US</FallbackCulture>
+    <VerifyUploadedFiles>false</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
